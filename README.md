@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FullStack
 - 💞️ I’m looking to collaborate on diffrent types of codes
 - 📫 You can always  reach me via email :)
-- 📫 matan rotgoltz@gmail.com
+- 📫 matanrotgoltz@gmail.com
 
 <!---
 matanrotgolz/matanrotgolz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
